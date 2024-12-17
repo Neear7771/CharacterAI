@@ -10,7 +10,7 @@ setup(
     keywords='ai wrapper api library',
     long_description=readme,
     long_description_content_type='text/markdown',
-    url='https://github.com/kramcat/characterai',
+    url='https://github.com/Neear7771/CharacterAI',
     author='kramcat',
     license='MIT',
     install_requires=['pydantic', 'curl_cffi', 'websockets'],
